@@ -35,7 +35,8 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE             *
  * POSSIBILITY OF SUCH DAMAGE.                                         *
  *                                                                     *
- * Contact: Paul Mineiro <paul@mineiro.com>                            *
+ * Contact: Paul Mineiro <paul@mineiro.com>    
+ *
  *=====================================================================*/
 
 #ifndef __FAST_LOG_H_
